@@ -1,0 +1,26 @@
+[
+  {
+    "receipt_id": "R-1001",
+    "date": "2024-04-02",
+    "plate": "沪A12345",
+    "merchant": "浦东机场停车场",
+    "amount": 128.5,
+    "category": "parking"
+  },
+  {
+    "receipt_id": "R-1002",
+    "date": "2024-04-05",
+    "plate": "沪B67890",
+    "merchant": "国家电网充电",
+    "amount": 86.3,
+    "category": "charging"
+  },
+  {
+    "receipt_id": "R-1003",
+    "date": "2024-04-05",
+    "plate": "沪A12345",
+    "merchant": "沪陕高速ETC",
+    "amount": 210.0,
+    "category": "etc"
+  }
+]
